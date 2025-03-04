@@ -2,6 +2,32 @@
 
 Welcome to the ML-Based Ballistics Recognition Tool wiki! This comprehensive guide will help you understand and use the tool effectively.
 
+<!-- sidebar -->
+<div align="right">
+  
+### Quick Links
+- [🏠 Home](#ml-based-ballistics-recognition-tool-wiki)
+- [📥 Installation](#installation-guide)
+- [📖 User Guide](#user-guide)
+- [✨ Features](#features-overview)
+- [🔧 Technical Docs](#technical-documentation)
+- [❓ FAQ](#faq)
+- [🔍 Troubleshooting](#troubleshooting)
+
+### Tool Status
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Python](https://img.shields.io/badge/python-3.8+-green)
+![License](https://img.shields.io/badge/license-MIT-orange)
+
+### Resources
+- [📚 Documentation](https://github.com/AbirMohanta/ML-Based-Ballistics-Recognition-Tool/wiki)
+- [🐛 Report Bug](https://github.com/AbirMohanta/ML-Based-Ballistics-Recognition-Tool/issues)
+- [💡 Request Feature](https://github.com/AbirMohanta/ML-Based-Ballistics-Recognition-Tool/issues)
+- [📧 Contact Support](mailto:support@example.com)
+
+</div>
+<!-- end sidebar -->
+
 ## Table of Contents
 - [About the Tool](#about-the-tool)
 - [Installation Guide](#installation-guide)
