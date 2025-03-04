@@ -15,8 +15,8 @@ A comprehensive ballistics analysis tool built with Python and Streamlit that he
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/advanced-ballistics-analyzer.git
-cd advanced-ballistics-analyzer
+git clone https://github.com/AbirMohanta/dummy-balistic.git
+cd dummy-balistic
 ```
 
 2. Install dependencies:
